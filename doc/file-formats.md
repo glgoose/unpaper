@@ -86,7 +86,7 @@ PDF Generation
 
 PDF support is not currently available and not planned. You can
 generate PDFs out of the processed images by using tools such as
-`pnm2tiff`, `tiffcp` and `tiff2pdf`.
+`ppm2tiff`, `tiffcp` and `tiff2pdf`.
 
 [1]: https://www.ffmpeg.org/
 [2]: https://github.com/unpaper/unpaper/issues
